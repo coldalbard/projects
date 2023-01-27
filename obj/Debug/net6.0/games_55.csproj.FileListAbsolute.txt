@@ -1,0 +1,15 @@
+D:\games_55\bin\Debug\net6.0\games_55.exe
+D:\games_55\bin\Debug\net6.0\games_55.deps.json
+D:\games_55\bin\Debug\net6.0\games_55.runtimeconfig.json
+D:\games_55\bin\Debug\net6.0\games_55.dll
+D:\games_55\bin\Debug\net6.0\games_55.pdb
+D:\games_55\obj\Debug\net6.0\games_55.csproj.AssemblyReference.cache
+D:\games_55\obj\Debug\net6.0\games_55.GeneratedMSBuildEditorConfig.editorconfig
+D:\games_55\obj\Debug\net6.0\games_55.AssemblyInfoInputs.cache
+D:\games_55\obj\Debug\net6.0\games_55.AssemblyInfo.cs
+D:\games_55\obj\Debug\net6.0\games_55.csproj.CoreCompileInputs.cache
+D:\games_55\obj\Debug\net6.0\games_55.dll
+D:\games_55\obj\Debug\net6.0\refint\games_55.dll
+D:\games_55\obj\Debug\net6.0\games_55.pdb
+D:\games_55\obj\Debug\net6.0\games_55.genruntimeconfig.cache
+D:\games_55\obj\Debug\net6.0\ref\games_55.dll
