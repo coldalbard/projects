@@ -1,0 +1,15 @@
+D:\games_55\sea_battle\bin\Debug\net6.0\sea_battle.exe
+D:\games_55\sea_battle\bin\Debug\net6.0\sea_battle.deps.json
+D:\games_55\sea_battle\bin\Debug\net6.0\sea_battle.runtimeconfig.json
+D:\games_55\sea_battle\bin\Debug\net6.0\sea_battle.dll
+D:\games_55\sea_battle\bin\Debug\net6.0\sea_battle.pdb
+D:\games_55\sea_battle\obj\Debug\net6.0\sea_battle.csproj.AssemblyReference.cache
+D:\games_55\sea_battle\obj\Debug\net6.0\sea_battle.GeneratedMSBuildEditorConfig.editorconfig
+D:\games_55\sea_battle\obj\Debug\net6.0\sea_battle.AssemblyInfoInputs.cache
+D:\games_55\sea_battle\obj\Debug\net6.0\sea_battle.AssemblyInfo.cs
+D:\games_55\sea_battle\obj\Debug\net6.0\sea_battle.csproj.CoreCompileInputs.cache
+D:\games_55\sea_battle\obj\Debug\net6.0\sea_battle.dll
+D:\games_55\sea_battle\obj\Debug\net6.0\refint\sea_battle.dll
+D:\games_55\sea_battle\obj\Debug\net6.0\sea_battle.pdb
+D:\games_55\sea_battle\obj\Debug\net6.0\sea_battle.genruntimeconfig.cache
+D:\games_55\sea_battle\obj\Debug\net6.0\ref\sea_battle.dll
